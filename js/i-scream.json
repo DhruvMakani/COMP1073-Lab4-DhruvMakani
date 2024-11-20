@@ -1,30 +1,36 @@
 {
-  "companyName" : "I Scream Inc.",
-  "headOffice" : "South Pole, Antarctica",
-  "established" : 2001,
-  "active" : true,
-  "topFlavors" : [
+  "companyName": "I Scream Inc.",
+  "headOffice": "South Pole, Antarctica",
+  "established": 2001,
+  "active": true,
+  "topFlavors": [
     {
-      "name" : "Monstrous Mint",
-      "calories" : 400,
-      "type" : "ice cream",
-      "ingredients" : [
-        "peppermint cream",
-        "dark chocolate chips",
-        "vanilla extract"
-      ],
-      "image" : "chocolate-mint.svg"
+      "name": "Monstrous Mint",
+      "calories": 400,
+      "type": "ice cream",
+      "ingredients": ["peppermint cream", "dark chocolate chips", "vanilla extract"],
+      "image": "chocolate-mint.svg"
     },
     {
-      "name" : "Perfect Peach Mango",
-      "calories" : 350,
-      "type" : "sorbet",
-      "ingredients" : [
-        "peach purée",
-        "mango chunks",
-        "clover honey"
-      ],
-      "image" : "peach-mango.svg"
+      "name": "Perfect Peach Mango",
+      "calories": 350,
+      "type": "sorbet",
+      "ingredients": ["peach purée", "mango chunks", "clover honey"],
+      "image": "peach-mango.svg"
+    },
+    {
+      "name": "Berry Blast",
+      "calories": 300,
+      "type": "sorbet",
+      "ingredients": ["blueberries", "blackberries", "raspberry purée"],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Choco-Lava Fudge",
+      "calories": 450,
+      "type": "ice cream",
+      "ingredients": ["dark chocolate", "fudge chunks", "cocoa powder"],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
